@@ -1,0 +1,4 @@
+mnist_test.csv/
+mnist_train.csv
+NN/
+.ipynb_checkpoints
